@@ -123,6 +123,11 @@
     <ClCompile Include="Sol03.cpp" />
     <ClCompile Include="Sol04.cpp" />
     <ClCompile Include="Sol05.cpp" />
+    <ClCompile Include="Sol06.cpp" />
+    <ClCompile Include="Sol07.cpp" />
+    <ClCompile Include="Sol08.cpp" />
+    <ClCompile Include="Sol09.cpp" />
+    <ClCompile Include="Sol10.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
