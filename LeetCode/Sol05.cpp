@@ -6,6 +6,8 @@ Given a string S, find the longest palindromic substring in S.You may assume tha
 class Solution {
 public:
 	string longestPalindrome(string s) {
-
+		//from 0 to len/2
+		//test left
+		//test right
 	}
 };
