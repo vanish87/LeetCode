@@ -128,6 +128,26 @@
     <ClCompile Include="Sol08.cpp" />
     <ClCompile Include="Sol09.cpp" />
     <ClCompile Include="Sol10.cpp" />
+    <ClCompile Include="Sol11.cpp" />
+    <ClCompile Include="Sol12.cpp" />
+    <ClCompile Include="Sol13.cpp" />
+    <ClCompile Include="Sol14.cpp" />
+    <ClCompile Include="Sol15.cpp" />
+    <ClCompile Include="Sol16.cpp" />
+    <ClCompile Include="Sol17.cpp" />
+    <ClCompile Include="Sol18.cpp" />
+    <ClCompile Include="Sol19.cpp" />
+    <ClCompile Include="Sol20.cpp" />
+    <ClCompile Include="Sol21.cpp" />
+    <ClCompile Include="Sol22.cpp" />
+    <ClCompile Include="Sol23.cpp" />
+    <ClCompile Include="Sol24.cpp" />
+    <ClCompile Include="Sol25.cpp" />
+    <ClCompile Include="Sol26.cpp" />
+    <ClCompile Include="Sol27.cpp" />
+    <ClCompile Include="Sol28.cpp" />
+    <ClCompile Include="Sol29.cpp" />
+    <ClCompile Include="Sol30.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
